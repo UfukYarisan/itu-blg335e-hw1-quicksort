@@ -1,6 +1,6 @@
 # Quicksort Implementation
 
-# H1 BLG335E - Analysis of Algorithm I Assignment #1 Quicksort
+# HW1 BLG335E - Analysis of Algorithm I Assignment #1 Quicksort
 
 This repo contains my solution to the assignment assigned in the Istanbul Technical University Analysis of Algorithm I course.
 
